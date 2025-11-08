@@ -1,0 +1,501 @@
+district,percentage
+"Aliquippa SD",0.15
+"Williams Valley SD",0.13
+"Steelton-Highspire SD",0.12
+"West Perry SD",0.11
+"Bryn Athyn SD",0.1
+"Chester-Upland SD",0.09
+"Millersburg Area SD",0.09
+"Jim Thorpe Area SD",0.08
+"Panther Valley SD",0.08
+"Carbondale Area SD",0.08
+"Farrell Area SD",0.07
+"Fannett-Metal SD",0.07
+"Monessen City SD",0.07
+"Susquenita SD",0.07
+"Midland Borough SD",0.07
+"Shamokin Area SD",0.07
+"Mount Union Area SD",0.07
+"Greater Johnstown SD",0.07
+"Galeton Area SD",0.07
+"East Pennsboro Area SD",0.06
+"Sullivan County SD",0.06
+"Uniontown Area SD",0.06
+"Jeannette City SD",0.06
+"Big Spring SD",0.06
+"Upper Dauphin Area SD",0.06
+"Lakeland SD",0.06
+"West Shore SD",0.06
+"Newport SD",0.06
+"Central Fulton SD",0.06
+"Hanover Area SD",0.06
+"Punxsutawney Area SD",0.06
+"Rochester Area SD",0.06
+"Lehighton Area SD",0.06
+"Mahanoy Area SD",0.06
+"Bethlehem-Center SD",0.06
+"Harrisburg City SD",0.06
+"Redbank Valley SD",0.06
+"Montrose Area SD",0.06
+"Brownsville Area SD",0.06
+"Southeast Delco SD",0.06
+"North Star SD",0.06
+"Crawford Central SD",0.06
+"Palmerton Area SD",0.06
+"Forest City Regional SD",0.05
+"Washington SD",0.05
+"Pittsburgh SD",0.05
+"Sto-Rox SD",0.05
+"Allegheny-Clarion Valley SD",0.05
+"Susquehanna Township SD",0.05
+"Williamsport Area SD",0.05
+"Morrisville Borough SD",0.05
+"Lackawanna Trail SD",0.05
+"Rockwood Area SD",0.05
+"Leechburg Area SD",0.05
+"Big Beaver Falls Area SD",0.05
+"Ligonier Valley SD",0.05
+"Union SD",0.05
+"Mountain View SD",0.05
+"York City SD",0.05
+"Minersville Area SD",0.05
+"Old Forge SD",0.05
+"Philadelphia City SD",0.05
+"Tunkhannock Area SD",0.05
+"Sharon City SD",0.05
+"Penns Manor Area SD",0.05
+"Stroudsburg Area SD",0.05
+"Pocono Mountain SD",0.05
+"Wilkinsburg Borough SD",0.05
+"Weatherly Area SD",0.05
+"Burgettstown Area SD",0.05
+"Wayne Highlands SD",0.05
+"Northwest Area SD",0.05
+"Forbes Road SD",0.05
+"Northern Cambria SD",0.05
+"Scranton SD",0.05
+"Columbia Borough SD",0.05
+"Oswayo Valley SD",0.05
+"Eastern York SD",0.05
+"Northern Lebanon SD",0.05
+"Midd-West SD",0.05
+"Frazier SD",0.05
+"Cameron County SD",0.05
+"Bangor Area SD",0.05
+"Wyoming Valley West SD",0.05
+"Mid Valley SD",0.05
+"Pottstown SD",0.05
+"Middletown Area SD",0.05
+"Waynesboro Area SD",0.04
+"Northern York County SD",0.04
+"Northeastern York SD",0.04
+"Steel Valley SD",0.04
+"Woodland Hills SD",0.04
+"Halifax Area SD",0.04
+"Clarion-Limestone Area SD",0.04
+"Juniata County SD",0.04
+"Western Wayne SD",0.04
+"Moshannon Valley SD",0.04
+"Reading SD",0.04
+"Mount Pleasant Area SD",0.04
+"Greensburg Salem SD",0.04
+"Meyersdale Area SD",0.04
+"Shenandoah Valley SD",0.04
+"New Kensington-Arnold SD",0.04
+"Line Mountain SD",0.04
+"Derry Area SD",0.04
+"Muncy SD",0.04
+"New Castle Area SD",0.04
+"Blacklick Valley SD",0.04
+"United SD",0.04
+"Coudersport Area SD",0.04
+"Tamaqua Area SD",0.04
+"Blue Mountain SD",0.04
+"Pottsville Area SD",0.04
+"Central Dauphin SD",0.04
+"Montoursville Area SD",0.04
+"Wyoming Area SD",0.04
+"McGuffey SD",0.04
+"Lakeview SD",0.04
+"Pen Argyl Area SD",0.04
+"East Stroudsburg Area SD",0.04
+"Mechanicsburg Area SD",0.04
+"Greenwood SD",0.04
+"Jersey Shore Area SD",0.04
+"Slippery Rock Area SD",0.04
+"Ferndale Area SD",0.04
+"Wilkes-Barre Area SD",0.04
+"Apollo-Ridge SD",0.04
+"Elk Lake SD",0.04
+"Annville-Cleona SD",0.04
+"Shippensburg Area SD",0.04
+"Bentworth SD",0.04
+"York Suburban SD",0.04
+"William Penn SD",0.04
+"South Williamsport Area SD",0.04
+"Shikellamy SD",0.04
+"Forest Area SD",0.04
+"Upper Perkiomen SD",0.04
+"Boyertown Area SD",0.04
+"Dallas SD",0.04
+"Butler Area SD",0.04
+"South Middleton SD",0.04
+"Carlisle Area SD",0.04
+"Penn Hills SD",0.04
+"Valley View SD",0.04
+"Berwick Area SD",0.04
+"Tuscarora SD",0.04
+"Northern Lehigh SD",0.04
+"Turkeyfoot Valley Area SD",0.04
+"Corry Area SD",0.04
+"Pittston Area SD",0.04
+"Salisbury-Elk Lick SD",0.04
+"Southmoreland SD",0.04
+"Chambersburg Area SD",0.04
+"Selinsgrove Area SD",0.04
+"Mount Carmel Area SD",0.04
+"Saint Clair Area SD",0.04
+"Westmont Hilltop SD",0.04
+"Shade-Central City SD",0.04
+"Laurel Highlands SD",0.04
+"Mifflinburg Area SD",0.04
+"Highlands SD",0.04
+"Keystone SD",0.04
+"Albert Gallatin Area SD",0.04
+"Susquehanna Community SD",0.04
+"River Valley SD",0.04
+"Red Lion Area SD",0.04
+"North Schuylkill SD",0.03
+"Glendale SD",0.03
+"Conneaut SD",0.03
+"Bermudian Springs SD",0.03
+"Southeastern Greene SD",0.03
+"Central Greene SD",0.03
+"Keystone Central SD",0.03
+"Littlestown Area SD",0.03
+"Pleasant Valley SD",0.03
+"Southern Huntingdon County SD",0.03
+"Oil City Area SD",0.03
+"North Pocono SD",0.03
+"Northwestern SD",0.03
+"Clearfield Area SD",0.03
+"Bristol Borough SD",0.03
+"Mercer Area SD",0.03
+"Schuylkill Haven Area SD",0.03
+"Hamburg Area SD",0.03
+"Cornell SD",0.03
+"Northern Tioga SD",0.03
+"Johnsonburg Area SD",0.03
+"Wellsboro Area SD",0.03
+"East Allegheny SD",0.03
+"South Allegheny SD",0.03
+"Saucon Valley SD",0.03
+"Northern Potter SD",0.03
+"Knoch SD",0.03
+"Brentwood Borough SD",0.03
+"Carmichaels Area SD",0.03
+"Dover Area SD",0.03
+"Reynolds SD",0.03
+"Kiski Area SD",0.03
+"California Area SD",0.03
+"Chichester SD",0.03
+"Ringgold SD",0.03
+"Western Beaver County SD",0.03
+"Wallenpaupack Area SD",0.03
+"Kutztown Area SD",0.03
+"Southern Tioga SD",0.03
+"Avella Area SD",0.03
+"Chestnut Ridge SD",0.03
+"Southern Fulton SD",0.03
+"Purchase Line SD",0.03
+"Franklin Area SD",0.03
+"Twin Valley SD",0.03
+"Belle Vernon Area SD",0.03
+"Tulpehocken Area SD",0.03
+"Daniel Boone Area SD",0.03
+"Sayre Area SD",0.03
+"Palisades SD",0.03
+"Palmyra Area SD",0.03
+"Cumberland Valley SD",0.03
+"Clarion Area SD",0.03
+"Charleroi SD",0.03
+"Mifflin County SD",0.03
+"Freedom Area SD",0.03
+"Erie City SD",0.03
+"Lake-Lehman SD",0.03
+"Conemaugh Valley SD",0.03
+"Smethport Area SD",0.03
+"Athens Area SD",0.03
+"Quakertown Community SD",0.03
+"Otto-Eldred SD",0.03
+"Commodore Perry SD",0.03
+"Yough SD",0.03
+"Wilson Area SD",0.03
+"Penn-Trafford SD",0.03
+"Donegal SD",0.03
+"Hempfield Area SD",0.03
+"Spring Cove SD",0.03
+"Conewago Valley SD",0.03
+"Northgate SD",0.03
+"Indiana Area SD",0.03
+"General McLane SD",0.03
+"Altoona Area SD",0.03
+"Pottsgrove SD",0.03
+"Greater Nanticoke Area SD",0.03
+"Wyalusing Area SD",0.03
+"Everett Area SD",0.03
+"Oxford Area SD",0.03
+"Easton Area SD",0.03
+"Manheim Central SD",0.03
+"Ellwood City Area SD",0.03
+"Hopewell Area SD",0.03
+"Connellsville Area SD",0.03
+"Penncrest SD",0.03
+"Chartiers-Houston SD",0.03
+"Portage Area SD",0.03
+"North East SD",0.03
+"East Lycoming SD",0.03
+"Canon-McMillan SD",0.03
+"Union Area SD",0.03
+"Eastern Lebanon County SD",0.03
+"Ambridge Area SD",0.03
+"Duquesne City SD",0.03
+"Elizabethtown Area SD",0.03
+"Armstrong SD",0.03
+"Marion Center Area SD",0.03
+"South Western SD",0.03
+"Canton Area SD",0.03
+"Huntingdon Area SD",0.03
+"Moniteau SD",0.03
+"Penns Valley Area SD",0.03
+"Wilmington Area SD",0.03
+"Kane Area SD",0.03
+"Spring Grove Area SD",0.03
+"Warren County SD",0.03
+"Dunmore SD",0.03
+"Jamestown Area SD",0.03
+"Lower Dauphin SD",0.03
+"Fairfield Area SD",0.03
+"Coatesville Area SD",0.03
+"Bradford Area SD",0.03
+"Philipsburg-Osceola Area SD",0.03
+"Troy Area SD",0.03
+"Bloomsburg Area SD",0.02
+"DuBois Area SD",0.02
+"Fort Cherry SD",0.02
+"Tussey Mountain SD",0.02
+"Derry Township SD",0.02
+"Allentown City SD",0.02
+"Iroquois SD",0.02
+"Antietam SD",0.02
+"Milton Area SD",0.02
+"Bethlehem Area SD",0.02
+"Southern York County SD",0.02
+"Windber Area SD",0.02
+"Cocalico SD",0.02
+"Greater Latrobe SD",0.02
+"Tri-Valley SD",0.02
+"Upper Darby SD",0.02
+"New Brighton Area SD",0.02
+"Central Cambria SD",0.02
+"Cheltenham SD",0.02
+"Northeast Bradford SD",0.02
+"Eastern Lancaster County SD",0.02
+"West Mifflin Area SD",0.02
+"Central Valley SD",0.02
+"West Middlesex Area SD",0.02
+"Bellwood-Antis SD",0.02
+"Catasauqua Area SD",0.02
+"Conemaugh Township Area SD",0.02
+"Jefferson-Morgan SD",0.02
+"South Eastern SD",0.02
+"Norristown Area SD",0.02
+"Mars Area SD",0.02
+"Upper Adams SD",0.02
+"Riverside SD",0.02
+"Port Allegany SD",0.02
+"Gateway SD",0.02
+"Camp Hill SD",0.02
+"Loyalsock Township SD",0.02
+"Gettysburg Area SD",0.02
+"McKeesport Area SD",0.02
+"Oley Valley SD",0.02
+"Cranberry Area SD",0.02
+"Carlynton SD",0.02
+"Octorara Area SD",0.02
+"Tyrone Area SD",0.02
+"Towanda Area SD",0.02
+"Northampton Area SD",0.02
+"Crestwood SD",0.02
+"Penn Cambria SD",0.02
+"Hanover Public SD",0.02
+"Valley Grove SD",0.02
+"Montgomery Area SD",0.02
+"Central York SD",0.02
+"Lebanon SD",0.02
+"West Branch Area SD",0.02
+"Delaware Valley SD",0.02
+"Abington Heights SD",0.02
+"Solanco SD",0.02
+"Bellefonte Area SD",0.02
+"Whitehall-Coplay SD",0.02
+"Karns City Area SD",0.02
+"Southern Columbia Area SD",0.02
+"Elizabeth Forward SD",0.02
+"Ridgway Area SD",0.02
+"Wattsburg Area SD",0.02
+"Homer-Center SD",0.02
+"Fort LeBoeuf SD",0.02
+"Fleetwood Area SD",0.02
+"Deer Lakes SD",0.02
+"Somerset Area SD",0.02
+"East Penn SD",0.02
+"Hazleton Area SD",0.02
+"Warrior Run SD",0.02
+"Bristol Township SD",0.02
+"Brookville Area SD",0.02
+"Blue Ridge SD",0.02
+"Saint Marys Area SD",0.02
+"Williamsburg Community SD",0.02
+"Sharpsville Area SD",0.02
+"Hollidaysburg Area SD",0.02
+"Central Columbia SD",0.02
+"Millcreek Township SD",0.02
+"Mohawk Area SD",0.02
+"Penn Manor SD",0.02
+"Schuylkill Valley SD",0.02
+"Conrad Weiser Area SD",0.02
+"Millville Area SD",0.02
+"South Park SD",0.02
+"Curwensville Area SD",0.02
+"Cornwall-Lebanon SD",0.02
+"Neshannock Township SD",0.02
+"Exeter Township SD",0.02
+"Shanksville-Stonycreek SD",0.02
+"Benton Area SD",0.02
+"Hermitage SD",0.02
+"Ephrata Area SD",0.02
+"Salisbury Township SD",0.02
+"Upper Moreland Township SD",0.02
+"Neshaminy SD",0.02
+"Moon Area SD",0.02
+"Nazareth Area SD",0.02
+"West York Area SD",0.02
+"Pine Grove Area SD",0.02
+"Trinity Area SD",0.02
+"Muhlenberg SD",0.02
+"Shenango Area SD",0.02
+"Penn-Delco SD",0.02
+"Warwick SD",0.02
+"Hempfield SD",0.02
+"Union City Area SD",0.02
+"Parkland SD",0.02
+"Bensalem Township SD",0.02
+"Norwin SD",0.02
+"Clairton City SD",0.02
+"Bald Eagle Area SD",0.02
+"Harbor Creek SD",0.02
+"Wyomissing Area SD",0.02
+"Grove City Area SD",0.02
+"Northern Bedford County SD",0.02
+"Franklin Regional SD",0.02
+"Lampeter-Strasburg SD",0.02
+"West Greene SD",0.02
+"Richland SD",0.02
+"Owen J Roberts SD",0.02
+"Riverside Beaver County SD",0.02
+"Cambria Heights SD",0.02
+"Upper Merion Area SD",0.02
+"Shaler Area SD",0.02
+"Brandywine Heights Area SD",0.01
+"Greencastle-Antrim SD",0.01
+"Manheim Township SD",0.01
+"Lancaster SD",0.01
+"Governor Mifflin SD",0.01
+"Pennridge SD",0.01
+"Ridley SD",0.01
+"North Clarion County SD",0.01
+"Bedford Area SD",0.01
+"Laurel SD",0.01
+"North Penn SD",0.01
+"Freeport Area SD",0.01
+"Pequea Valley SD",0.01
+"Beaver Area SD",0.01
+"Wilson SD",0.01
+"Greenville Area SD",0.01
+"Great Valley SD",0.01
+"Lewisburg Area SD",0.01
+"Burrell SD",0.01
+"Conestoga Valley SD",0.01
+"Northwestern Lehigh SD",0.01
+"Spring-Ford Area SD",0.01
+"Avon Grove SD",0.01
+"Titusville Area SD",0.01
+"Peters Township SD",0.01
+"Claysburg-Kimmel SD",0.01
+"Chartiers Valley SD",0.01
+"Centennial SD",0.01
+"Berlin Brothersvalley SD",0.01
+"Keystone Oaks SD",0.01
+"Danville Area SD",0.01
+"Interboro SD",0.01
+"Plum Borough SD",0.01
+"Rose Tree Media SD",0.01
+"West Chester Area SD",0.01
+"Allegheny Valley SD",0.01
+"Abington SD",0.01
+"Riverview SD",0.01
+"Colonial SD",0.01
+"Springfield Township SD",0.01
+"Baldwin-Whitehall SD",0.01
+"Pennsbury SD",0.01
+"Central Bucks SD",0.01
+"Girard SD",0.01
+"Avonworth SD",0.01
+"Phoenixville Area SD",0.01
+"Seneca Valley SD",0.01
+"Montour SD",0.01
+"Hampton Township SD",0.01
+"Perkiomen Valley SD",0.01
+"Council Rock SD",0.01
+"North Hills SD",0.01
+"Methacton SD",0.01
+"Southern Lehigh SD",0.01
+"West Allegheny SD",0.01
+"Juniata Valley SD",0.01
+"Fox Chapel Area SD",0.01
+"Souderton Area SD",0.01
+"Forest Hills SD",0.01
+"South Fayette Township SD",0.01
+"North Allegheny SD",0.01
+"Fairview SD",0.01
+"Brockway Area SD",0.01
+"Marple Newtown SD",0.01
+"Unionville-Chadds Ford SD",0.01
+"Harmony Area SD",0.01
+"Downingtown Area SD",0.01
+"Bethel Park SD",0.01
+"State College Area SD",0.01
+"Hatboro-Horsham SD",0.01
+"Upper Dublin SD",0.01
+"Pine-Richland SD",0.01
+"Wallingford-Swarthmore SD",0.01
+"Dallastown Area SD",0.01
+"Wissahickon SD",0.01
+"Quaker Valley SD",0.01
+"West Jefferson Hills SD",0.01
+"Kennett Consolidated SD",0.01
+"Springfield SD",0.01
+"South Side Area SD",0.01
+"Lower Moreland Township SD",0
+"New Hope-Solebury SD",0
+"Mt Lebanon SD",0
+"Lower Merion SD",0
+"Garnet Valley SD",0
+"Haverford Township SD",0
+"Jenkintown SD",0
+"Tredyffrin-Easttown SD",0
+"Upper St. Clair SD",0
+"Radnor Township SD",0
+"Blackhawk SD",0
+"Austin Area SD",0
