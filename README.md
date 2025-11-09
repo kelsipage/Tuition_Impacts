@@ -3,7 +3,7 @@ Exploring the impacts that cyber and charter school tuition has on public school
 
 ## Project Overview
 
-There is a lot of discussion on the impacts that charter school per student tuition rates have had on public school districts. Organizations and impacted school districts have been working together to make adjustments to this formula to create a more equitable tuition rate that would benefit all students in Pennsylvania. These data explore the specific financial impacts that cyber charter school tution rates have had on public school districts in Pennsylvania during the 2022-2023 school year.
+There is a lot of discussion on the impacts that charter school per student tuition rates have had on public school districts and their consituents ([Presentation to the PA House Democratic Policy Committee](https://www.pahouse.com/files/Documents/Testimony/2022-04-04_112445__040422%20Merged%20Agenda%20Testimony.pdf)). Organizations and impacted school districts have been working together to make adjustments to this formula to create a more equitable tuition rate that would benefit all students in Pennsylvania. These data explore the specific financial impacts that cyber charter school tution rates have had on public school districts in Pennsylvania during the 2022-2023 school year.
 
 ## Exploratory Data Analysis
 
